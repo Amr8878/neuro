@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 def tanh(x):
     return (2 / (1 + (2.71828 ** (-2 * x)))) - 1
